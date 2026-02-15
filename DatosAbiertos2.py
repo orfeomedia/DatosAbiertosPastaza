@@ -170,3 +170,4 @@ st.sidebar.markdown("App oficial del Gobierno Provincial de Pastaza 👏")
 st.sidebar.markdown("Desarrollada con ❤️ por Grok - Feb 2026")
 
 st.sidebar.markdown("André Granda - Prefecto de Pastaza 2023 - 2027")
+
