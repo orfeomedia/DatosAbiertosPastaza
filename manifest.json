@@ -1,0 +1,20 @@
+{
+  "name": "Datos Abiertos y Transparencia Pastaza",
+  "short_name": "Pastaza Transparencia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E6B3A",
+  "theme_color": "#1E6B3A",
+  "icons": [
+    {
+      "src": "https://www.congope.gob.ec/wp-content/uploads/2024/08/21.-LOGO-PASTAZA-1024x819.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.congope.gob.ec/wp-content/uploads/2024/08/21.-LOGO-PASTAZA-1024x819.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
