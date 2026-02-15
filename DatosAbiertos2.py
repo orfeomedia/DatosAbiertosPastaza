@@ -1,6 +1,13 @@
 import streamlit as st
 import pandas as pd
 
+# Soporte completo PWA
+st.markdown("""
+<link rel="manifest" href="/manifest.json">
+<link rel="apple-touch-icon" href="/icon-192.png">
+<meta name="theme-color" content="#1E6B3A">
+""", unsafe_allow_html=True)
+
 st.set_page_config(page_title=" Datos Abiertos Pastaza", layout="wide", initial_sidebar_state="expanded")
 
 st.title("🌿Pastaza Transparente")
@@ -161,4 +168,5 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.markdown("App oficial del Gobierno Provincial de Pastaza 👏")
 st.sidebar.markdown("Desarrollada con ❤️ por Grok - Feb 2026")
+
 st.sidebar.markdown("André Granda - Prefecto de Pastaza 2023 - 2027")
